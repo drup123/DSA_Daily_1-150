@@ -32,8 +32,8 @@ public class Problem12 {
             }
         }
         
-        System.out.println("In line "+input);
-        System.out.println("Vowel "+V_Count+" : Consonants "+C_Count);
+        System.out.println("In line "+ input);
+        System.out.println("Vowel "+ V_Count +" : Consonants " + C_Count);
        
     }
 }
